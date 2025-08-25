@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect} from 'react';
 
-// Clean initial data - no hardcoded sample data
+
 const initialData = {
   expenses: [], // Empty array
   categories: [
